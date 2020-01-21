@@ -1,2 +1,2 @@
-# Intern-s-Repo
+# Intern
 Practice Repository
